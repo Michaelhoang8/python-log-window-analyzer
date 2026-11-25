@@ -1,0 +1,4 @@
+{"count": 1, "errorRate": 0.0, "errors": 0, "meanLatencyMs": 10.0, "p50LatencyMs": 10.0, "p95LatencyMs": 10.0, "service": "checkout", "timestamp": "2026-01-01T00:00:00Z", "windowSeconds": 10.0}
+{"count": 2, "errorRate": 0.5, "errors": 1, "meanLatencyMs": 50.0, "p50LatencyMs": 10.0, "p95LatencyMs": 90.0, "service": "checkout", "timestamp": "2026-01-01T00:00:05Z", "windowSeconds": 10.0}
+{"count": 1, "errorRate": 0.0, "errors": 0, "meanLatencyMs": 20.0, "p50LatencyMs": 20.0, "p95LatencyMs": 20.0, "service": "catalog", "timestamp": "2026-01-01T00:00:05Z", "windowSeconds": 10.0}
+{"count": 2, "errorRate": 0.5, "errors": 1, "meanLatencyMs": 60.0, "p50LatencyMs": 30.0, "p95LatencyMs": 90.0, "service": "checkout", "timestamp": "2026-01-01T00:00:10Z", "windowSeconds": 10.0}

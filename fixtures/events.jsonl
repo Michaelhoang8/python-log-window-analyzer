@@ -1,0 +1,4 @@
+{"timestamp":"2026-01-01T00:00:00Z","service":"checkout","level":"info","latencyMs":10}
+{"timestamp":"2026-01-01T00:00:05Z","service":"checkout","level":"error","latencyMs":90}
+{"timestamp":"2026-01-01T00:00:05Z","service":"catalog","level":"warning","latencyMs":20}
+{"timestamp":"2026-01-01T00:00:10Z","service":"checkout","level":"info","latencyMs":30}
